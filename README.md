@@ -5,4 +5,4 @@
 - 👀 I’m interested in Digital development
 - 🌱 I’m currently learning JavaScript, php, and DataBase (MySQL)
 - 📫 How to reach me : chattabdrrafie@gmail.com
-- ⚡ Fun fact: We can play Chess if you want to lost.
+- ⚡ Challenge: We can play chess if you're ready to lose!
