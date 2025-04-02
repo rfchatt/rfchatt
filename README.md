@@ -10,7 +10,7 @@
 
 ---
 
-# ABDERRAFIE CHATE (* CHATT *) 👨🏼‍💻
+# ABDERRAFIE CHATE (CHATT) 👨🏼‍💻
 
 **Pronouns:** He/Him
 **intern Full-stack developer** at [@LCBC-UIO](https://cmc.ac.ma/)  
@@ -41,7 +41,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ## 📊 GitHub Stats
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_icons=true&theme=radical)
+![rfchatt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true)
 
 - **Total Stars:** 06
 - **2024 Commits:** 315 
