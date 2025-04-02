@@ -41,6 +41,12 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,py,php,js,html,css,aws,bootstrap,express,flask,laravel,nextjs,nodejs,react,tailwind,wordpress,mysql,mongodb,prisma,figma,github" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
