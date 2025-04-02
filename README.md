@@ -45,6 +45,15 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ---
 
+## 📊 GitHub Language Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=merko&hide=html,css" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![rfchatt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true)
