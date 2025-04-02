@@ -1,16 +1,6 @@
-# I'm Abderrafie 👋🏽
+# I'm ABDERRAFIE CHATE - CHATT 👨🏼‍💻
 
 ## I'm a junior Full-stack developer from Morocco
-
-- 👀 I’m interested in Digital development
-- 🌱 I’m currently learning JavaScript, php, and DataBase (MySQL)
-- 📫 How to reach me : chattabdrrafie@gmail.com
-- ⚡ Challenge: We can play chess if you're ready to lose!
-
-
----
-
-# ABDERRAFIE CHATE - (CHATT) 👨🏼‍💻
 
 **Pronouns:** He/Him
 **intern Full-stack developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
@@ -32,9 +22,12 @@
 ## 👩‍💻 About Me
 
 I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynamic team of 20 fellow interns under the guidance of 7 senior developers.  
-- Certified with a **Baccalaureate in Physics and Chemistry** in *2023* with honors  
-- Passionate about full-stack web development and Front-End technologies  
-- Actively contributing to enterprise-level projects while expanding my technical skillset  
+- Certified with a **Baccalaureate in Physics and Chemistry** in *2023* with honors
+- 🌱 I’m currently learning JavaScript, php, and DataBase (MySQL)
+- Passionate about full-stack web development and Front-End technologies
+- 📫 How to reach me : chattabdrrafie@gmail.com
+- Actively contributing to enterprise-level projects while expanding my technical skillset
+- ⚡ Challenge: We can play chess if you're ready to lose!
 
 
 ---
@@ -77,6 +70,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ## 🎮 Downtime Activities
 
+![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=data:image/svg+xml;base64,[YOUR_BASE64_SVG]&logoColor=white)
 ![Free Fire](https://img.shields.io/badge/Free_Fire-FFD700?style=flat&logo=fire&logoColor=white)
 ![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-E32125?style=flat&logo=star&logoColor=white)
 
