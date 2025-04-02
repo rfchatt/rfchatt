@@ -10,10 +10,10 @@
 
 ---
 
-# ABDERRAFIE CHATE (CHATT) 👨🏼‍💻
+# ABDERRAFIE CHATE - (CHATT) 👨🏼‍💻
 
 **Pronouns:** He/Him
-**intern Full-stack developer** at [@LCBC-UIO](https://cmc.ac.ma/)  
+**intern Full-stack developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
 **Front-End developer** since | **September 2024**
 
 # My Social Media accounts 🌐
@@ -25,7 +25,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chatt-01)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbderrafieChate)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050403090152)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](rfchatt.github.io/Monsite/)  
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rfchatt.github.io/Monsite/)  
 
 ---
 
@@ -51,16 +51,12 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ---
 
-![Commits](https://img.shields.io/github/commit-activity/m/rfchatt/repo)
-
----
-
 ## 🛠️ Skills
 
 | Learning | Exploring |
 |----------|-----------|
-| Python   | CMC Tangier |
-| HTML&CSS | CMC Tangier |
+| Python   | cmc Tangier |
+| HTML&CSS | cmc Tangier |
 |   JS     | elzero Web School |
 
 ---
@@ -75,7 +71,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 [![Blog](https://img.shields.io/badge/Blog-drmowinckels.io-blue)](https://drmowinckels.io)  
 - **10 posts** since 2024 
-- Latest: "Parcour of Learning FrontEnd Tools" (02 days ago)  
+- Latest: "Parcour of Learning JavaScript Tools" (02 days ago)  
 
 ---
 
