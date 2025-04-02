@@ -33,15 +33,6 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ## 🛠️ Tech Stack
 
-| Frontend       | Backend        | DevOps        | Design      |
-|----------------|----------------|--------------|--------------|
-| ![React]       | ![Node.js]     | ![AWS]       | ![Figma]     |
-| ![Next.js]     | ![Express.js]  | ![GitHub]    | ![Canva]     |
-| ![HTML5]       | ![Laravel]     | ![Apache]    |              |
-| ![CSS3]        | ![Flask]       | ![Prisma]    |              |
-| ![JavaScript]  | ![PHP]         | ![MySQL]     |              |
-| ![Bootstrap]   | ![Python]      | ![MongoDB]   |              |
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
