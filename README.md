@@ -7,6 +7,15 @@
 - 📫 How to reach me : chattabdrrafie@gmail.com
 - ⚡ Challenge: We can play chess if you're ready to lose!
 
+
+---
+
+# ABDERRAFIE CHATE (* CHATT *) 👨🏼‍💻
+
+**Pronouns:** He/Him
+**intern Full-stack developer** at [@LCBC-UIO](https://cmc.ac.ma/)  
+**Front-End developer** since | **September 2024**
+
 # My Social Media accounts 🌐
 
 ## Connect with me ⚡️
@@ -16,28 +25,17 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chatt-01)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbderrafieChate)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050403090152)
-
---------------------------------------------
-
-# Athanasia Monika Mowinckel (drmowinckels) 👩‍🔬
-
-**Pronouns:** she/her  
-**Staff researcher** at [@LCBC-UIO](www.oslobrains.no) and [@Lifebrain](www.lifebrain.uio.no)  
-**PhD** in Cognitive Neuroscience | **Chapter head** for [@fladies Oslo]()
-
-🔗 **Connect with me:**  
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://fosstodon.org/@drmowinckels)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5756-0223)  
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://drmowinckels.io)  
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](rfchatt.github.io/Monsite/)  
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm part of the **B-Ladies global team**, focusing on website development/maintenance and YouTube channel.  
-- Certified **Software Carpentry Instructor** (teaching git, bash, R)  
-- Certified **Post Tidyverse Instructor**  
-- Staff scientist at the **Center for Lifespan Changes in Brain and Cognition**, University of Oslo  
+I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynamic team of 20 fellow interns under the guidance of 7 senior developers.  
+- Certified with a **Baccalaureate in Physics and Chemistry** in *2023* with honors  
+- Passionate about full-stack web development and Front-End technologies  
+- Actively contributing to enterprise-level projects while expanding my technical skillset  
+
 
 ---
 
@@ -45,44 +43,44 @@ I'm part of the **B-Ladies global team**, focusing on website development/mainte
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_icons=true&theme=radical)
 
-- **Total Stars:** 70  
-- **2024 Commits:** 1.5K  
-- **Repositories:** 327  
-- **Issues:** 345  
-- **Contributed to (last year):** 39  
+- **Total Stars:** 06
+- **2024 Commits:** 315 
+- **Repositories:** 09
+- **Issues:** 0
+- **Contributed to (last year):** 10 
+
+---
+
+![Commits](https://img.shields.io/github/commit-activity/m/rfchatt/repo)
 
 ---
 
 ## 🛠️ Skills
 
-| Proficient | Learning | Exploring |
-|------------|----------|-----------|
-| R          | Python   | Julia     |
-| Git        | Docker   | Kubernetes|
-| Bash       | AWS      | TensorFlow|
+| Learning | Exploring |
+|----------|-----------|
+| Python   | CMC Tangier |
+| HTML&CSS | CMC Tangier |
+|   JS     | elzero Web School |
 
 ---
 
 ## 💻 Development Tools
 
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?style=flat&logo=rstudio)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat&logo=jupyter)
 
 ---
 
 ## ✍️ Blog
 
 [![Blog](https://img.shields.io/badge/Blog-drmowinckels.io-blue)](https://drmowinckels.io)  
-- **33 posts** since 2018  
-- Latest: "Customise your R startup message" (13 days ago)  
+- **10 posts** since 2024 
+- Latest: "Parcour of Learning FrontEnd Tools" (02 days ago)  
 
 ---
 
 ## 🎮 Downtime Activities
 
-![Gaming](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam)  
-![Sports](https://img.shields.io/badge/Sports-FF0000?style=flat&logo=soccer)  
-![TV](https://img.shields.io/badge/Apple_TV-000000?style=flat&logo=apple-tv)  
+![Free Fire](https://img.shields.io/badge/Free_Fire-FFD700?style=flat&logo=fire&logoColor=white)
+![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-E32125?style=flat&logo=star&logoColor=white)
 
-*Profile last updated: {{date}}*
