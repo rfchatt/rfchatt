@@ -45,9 +45,9 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ---
 
-## 📊 GitHub Language Stats
+## 🐍 Most Used Languages
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rfchatt)](https://wakatime.com/@rfchatt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
 
 ---
 
