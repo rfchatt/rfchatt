@@ -81,7 +81,6 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ## ✍️ Blog
 
-[![Blog](https://img.shields.io/badge/Blog-drmowinckels.io-blue)](https://drmowinckels.io)  
 - **10 posts** since 2024 
 - Latest: "Parcour of Learning JavaScript Tools" (02 days ago)  
 
