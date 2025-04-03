@@ -9,8 +9,7 @@
 # My Social Media accounts 🌐
 
 ## Connect with me ⚡️
-
-<a href="https://instagram.com/rfchatt" target="_blank">
+### Instagram : <a href="https://instagram.com/rfchatt" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/abderrafie-chate-a85087328/" target="_blank">
