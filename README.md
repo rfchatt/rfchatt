@@ -10,12 +10,24 @@
 
 ## Connect with me ⚡️
 
-<a href="https://instagram.com/rfchatt" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/abderrafie-chate-a85087328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@Chatt-01" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://x.com/AbderrafieChate" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.facebook.com/profile.php?id=100050403090152" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://rfchatt.github.io/Monsite/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://instagram.com/rfchatt" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/abderrafie-chate-a85087328/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@Chatt-01" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://x.com/AbderrafieChate" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100050403090152" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://rfchatt.github.io/Monsite/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+</a>
 
 ---
 
