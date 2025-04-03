@@ -9,12 +9,13 @@
 # My Social Media accounts 🌐
 
 ## Connect with me ⚡️
-### Instagram : <a href="https://instagram.com/rfchatt" target="_blank">
+
+<a href="https://instagram.com/rfchatt" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/abderrafie-chate-a85087328/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><br>
+</a>
 <a href="https://www.youtube.com/@Chatt-01" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -54,13 +55,13 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 ## 🐍 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -82,7 +83,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 | HTML&CSS | cmc Tangier |
 |   JS     | elzero Web School |
 
----
+
 
 ## 💻 Development Tools
 
@@ -95,7 +96,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 - **10 posts** since 2024 
 - Latest: "Parcour of Learning JavaScript Tools" (02 days ago)  
 
----
+
 
 ## 🎮 Downtime Activities
 
