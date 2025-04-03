@@ -1,4 +1,4 @@
-# I'm ABDERRAFIE CHATE - CHATT 👨🏼‍💻
+# I'm Abderrafie Chate - CHATT 👨🏼‍💻
 
 ## I'm a junior Full-stack developer from Morocco
 
