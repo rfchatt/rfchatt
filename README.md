@@ -101,6 +101,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ## 🎮 Downtime Activities
 
 ![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=data:image/svg+xml;base64,[YOUR_BASE64_SVG]&logoColor=white)
+[![LaLiga](https://img.shields.io/badge/LaLiga-E41D23?style=for-the-badge&logoColor=white)](https://www.laliga.com/){:target="_blank"}
 ![Free Fire](https://img.shields.io/badge/Free_Fire-FFD700?style=flat&logo=fire&logoColor=white)
-![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-E32125?style=flat&logo=star&logoColor=white)
+[![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-6A0DAD?style=for-the-badge&logo=star&logoColor=white)](https://www.beinsports.com/){:target="_blank"}
 
