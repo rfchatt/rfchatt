@@ -100,8 +100,8 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ## 🎮 Downtime Activities
 
-![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=data:image/svg+xml;base64,[YOUR_BASE64_SVG]&logoColor=white)
-[![LaLiga](https://img.shields.io/badge/LaLiga-E41D23?style=for-the-badge&logoColor=white)](https://www.laliga.com/){:target="_blank"}
-![Free Fire](https://img.shields.io/badge/Free_Fire-FFD700?style=flat&logo=fire&logoColor=white)
-[![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-6A0DAD?style=for-the-badge&logo=star&logoColor=white)](https://www.beinsports.com/){:target="_blank"}
+[![GTA V](https://img.shields.io/badge/GTA_V-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R1RBIFY8L3RleHQ+PC9zdmc+&logoColor=F5C518)](https://www.rockstargames.com/V/)
+[![LaLiga](https://img.shields.io/badge/LaLiga-E41D23?style=for-the-badge&logoColor=white)](https://www.laliga.com/)
+[![Free Fire](https://img.shields.io/badge/Free_Fire-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RnJlZSBGaXJlPC90ZXh0Pjwvc3ZnPg==&logoColor=FF0000)](https://ff.garena.com/)
+[![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-6A0DAD?style=for-the-badge&logo=star&logoColor=white)](https://www.beinsports.com/)
 
