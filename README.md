@@ -1,6 +1,6 @@
 # I'm Abderrafie Chate - CHATT 
 
-**Pronouns:** He/Him
+**Pronouns:** He/Him<br>
 **intern Full-stack developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
 **Front-End developer** since | **September 2024**
 
