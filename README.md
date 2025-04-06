@@ -90,6 +90,29 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</p>
+
+---
+
+## 🧠 Random Dev Quote
+
+<blockquote>
+  <p style="color:#00ffff; font-style:arial;">
+    “A wise man is one who comes looking for advices, but weapons are found everywhere.”
+  </p>
+  <p style="color:#ff2d75; text-align:center;">King Hassan II</p>
+</blockquote>
+
 
 ## ✍️ Blog
 
