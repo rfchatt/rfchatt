@@ -92,7 +92,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ---
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/rfchatt/github-profile-trophy)
 
 ---
 
