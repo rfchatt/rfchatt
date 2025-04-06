@@ -96,15 +96,7 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 
 ---
 
-## 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-</p>
-
----
-
-## 🧠 Random Dev Quote
+## 👑 Quote
 
 <blockquote>
   <p style="color:#00ffff; font-style:arial;">
