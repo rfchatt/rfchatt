@@ -1,10 +1,10 @@
-# I'm Abderrafie Chate - CHATT 👨🏼‍💻
-
-## I'm a junior Full-stack developer from Morocco
+# I'm Abderrafie Chate - CHATT 
 
 **Pronouns:** He/Him
 **intern Full-stack developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
 **Front-End developer** since | **September 2024**
+
+## I'm a junior Full-stack developer from Morocco
 
 # My Social Media accounts 🌐
 
