@@ -1,45 +1,26 @@
-# I'm Abderrafie Chate - CHATT 
+# I'm Abderrafie Chate - CHATT 👋
 
-**Pronouns:** He/Him<br>
-**intern Full-stack developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
-**Front-End developer** since | **September 2024**
+**Pronouns:** He/Him  
+**Intern Full-Stack Developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
+**Front-End Developer** since **September 2024**
 
-## I'm a junior Full-stack developer from Morocco
-
-# My Social Media accounts 🌐
-
-## Connect with me ⚡️
-
-<a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/abderrafie-chate-a85087328/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.youtube.com/@Chatt-01" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://x.com/AbderrafieChate" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100050403090152" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://rfchatt.github.io/Monsite/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
-</a>
+## 🌍 About Me
+Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier** with a team of 20 interns under 7 senior developers.  
+- 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)** with honors
+- 🌱 Currently mastering **JavaScript, PHP, and MySQL**
+- 📫 Reach me: [chattabdrrafie@gmail.com](mailto:chattabdrrafie@gmail.com)
+- ⚡ Fun fact: Challenge me to chess! (Warning: I play to win)
 
 ---
 
-## 👩‍💻 About Me
+## 🌐 Connect With Me
 
-I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynamic team of 20 fellow interns under the guidance of 7 senior developers.  
-- Certified with a **Baccalaureate in Physics and Chemistry** in *2023* with honors
-- 🌱 I’m currently learning JavaScript, php, and DataBase (MySQL)
-- Passionate about full-stack web development and Front-End technologies
-- 📫 How to reach me : chattabdrrafie@gmail.com
-- Actively contributing to enterprise-level projects while expanding my technical skillset
-- ⚡ Challenge: We can play chess if you're ready to lose!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rfchatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrafie-chate-a85087328/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Chatt-01)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AbderrafieChate)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050403090152)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rfchatt.github.io/Monsite/)
 
 ---
 
@@ -50,72 +31,47 @@ I'm currently an **Intern Developer at CMC Tangier**, collaborating with a dynam
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
+---
 
-## 🐍 Most Used Languages
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
-
-
-
-## 📊 GitHub Stats
-
-![rfchatt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true) |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 
 - **Total Stars:** 06
 - **2024 Commits:** 315 
 - **Repositories:** 09
-- **Issues:** 0
-- **Contributed to (last year):** 10 
+- **Contributions (2024):** 10+
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/rfchatt)
 
 ---
 
-## 🛠️ Skills
+## 📚 Learning Path
 
-| Learning | Exploring |
-|----------|-----------|
-| Python   | cmc Tangier |
-| HTML&CSS | cmc Tangier |
-|   JS     | elzero Web School |
-
-
-
-## 💻 Development Tools
-
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/rfchatt/github-profile-trophy)
+| Core Skills | Current Focus |
+|------------|---------------|
+| JavaScript | CMC Tangier Projects |
+| HTML/CSS   | Elzero Web School |
+| PHP/MySQL  | Enterprise Solutions |
 
 ---
 
-## 👑 Quote
+## ✨ Inspiration
 
-<blockquote>
-  <p style="color:#00ffff; font-style:arial;">
-    “A wise man is one who comes looking for advices, but weapons are found everywhere.”
-  </p>
-  <p style="color:#ff2d75; text-align:center;">King Hassan II</p>
-</blockquote>
+> "A wise man is one who comes looking for advice, but weapons are found everywhere."  
+> <span style="color:#ff2d75; text-align:center;">— King Hassan II</span>
 
-
-## ✍️ Blog
-
-- **10 posts** since 2024 
-- Latest: "Parcour of Learning JavaScript Tools" (02 days ago)  
-
-
+---
 
 ## 🎮 Downtime Activities
 
-[![GTA V](https://img.shields.io/badge/GTA_V-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R1RBIFY8L3RleHQ+PC9zdmc+&logoColor=F5C518)](https://www.rockstargames.com/V/)
-[![LaLiga](https://img.shields.io/badge/LaLiga-E41D23?style=for-the-badge&logoColor=white)](https://www.laliga.com/)
-[![Free Fire](https://img.shields.io/badge/Free_Fire-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RnJlZSBGaXJlPC90ZXh0Pjwvc3ZnPg==&logoColor=FF0000)](https://ff.garena.com/)
-[![BEIN Sports](https://img.shields.io/badge/BEIN_Sports-6A0DAD?style=for-the-badge&logo=star&logoColor=white)](https://www.beinsports.com/)
-
+[![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R1RBIFY8L3RleHQ+PC9zdmc+)](https://www.rockstargames.com/V/)
+[![Football](https://img.shields.io/badge/Football-6CBB3C?style=flat&logo=soccer&logoColor=white)](https://www.laliga.com/)
+[![Free Fire](https://img.shields.io/badge/Free_Fire-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RnJlZSBGaXJlPC90ZXh0Pjwvc3ZnPg==)](https://ff.garena.com/)
