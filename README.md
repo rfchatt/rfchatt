@@ -57,8 +57,8 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 
 | Core Skills | Current Focus |
 |------------|---------------|
-| JavaScript | CMC Tangier Projects |
-| HTML/CSS   | Elzero Web School |
+| JavaScript | Elzero Web School|
+| HTML/CSS   | CMC Tangier Projects |
 | PHP/MySQL  | Enterprise Solutions |
 
 ---
