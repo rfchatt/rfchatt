@@ -65,7 +65,7 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 
 ## ✨ Inspiration
 
-> "A wise man is one who comes looking for advice, but weapons are found everywhere."  
+> "A wise man is one who comes looking for advice.. Weapons are found everywhere."  
 > <span style="color:#ff2d75; text-align:center;">— King Hassan II</span>
 
 ---
