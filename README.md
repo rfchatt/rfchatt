@@ -44,10 +44,6 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true) |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 
-- **Total Stars:** 06
-- **2024 Commits:** 315 
-- **Repositories:** 09
-- **Contributions (2024):** 10+
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/rfchatt)
 
