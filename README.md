@@ -5,9 +5,9 @@
 **Front-End Developer** since **September 2024**
 
 ## 🌍 About Me
-Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier** with a team of 20 interns under 7 senior developers.  
+Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier** with a team of 19 interns under 3 senior developers.  
 - 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)** with honors
-- 🌱 Currently mastering **JavaScript, PHP, and MySQL**
+- 🌱 Currently mastering **JavaScript, HTML, CSS, PHP, and MySQL**
 - 📫 Reach me: [chattabdrrafie@gmail.com](mailto:chattabdrrafie@gmail.com)
 - ⚡ Fun fact: Challenge me to chess! (Warning: I play to win)
 
