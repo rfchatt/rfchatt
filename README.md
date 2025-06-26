@@ -4,7 +4,7 @@
 **Intern Full-Stack Developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
 **Front-End Developer** since **September 2024**
 
-## 🌍 About Me
+## 🌍 About me
 Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier** with a team of 19 interns under 3 senior developers.  
 - 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)** with honors
 - 🌱 Currently mastering **JavaScript, HTML, CSS, PHP, and MySQL**
@@ -25,7 +25,6 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rfchatt.github.io/Monsite/)
 
 </div>
----
 
 ## 🛠️ I code with
 
@@ -43,7 +42,6 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 </div>
----
 
 ## 📊 GitHub Analytics
 
