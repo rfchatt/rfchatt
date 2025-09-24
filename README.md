@@ -5,7 +5,7 @@
 **Front-End Developer** since **September 2024**
 
 ## 🌍 About me
-Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier** with a team of 19 interns under 3 senior developers.  
+A MorocCan Intern Mobile developer, currently interning at **CMC Tangier** with a team of 19 interns under 2 senior developers.
 - 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)** with honors
 - 🌱 Currently mastering **JavaScript, HTML, CSS, PHP, and MySQL**
 - 📫 Reach me: [chattabdrrafie@gmail.com](mailto:chattabdrrafie@gmail.com)
@@ -19,7 +19,7 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rfchatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rfchatt/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Chatt-01)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rfchatt)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rfchatt_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/rfchatt)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rfchatt.github.io/rfchatt_/)
@@ -47,19 +47,6 @@ Junior Full-Stack Developer from Morocco, currently interning at **CMC Tangier**
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true) |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rfchatt&theme=tokyonight)](https://github.com/rfchatt)
-
----
-
-## 📚 Learning Path
-
-| Core Skills | Current Focus |
-|------------|---------------|
-| JavaScript | Elzero Web School|
-| HTML/CSS   | CMC Tangier Projects |
-| PHP/MySQL  | CMC Tangier Projects |
 
 ---
 
