@@ -1,15 +1,12 @@
-# I'm Abderrafie Chate - CHATT 👋
+# Abderrafie Chate - rfchatt 
 
-**Pronouns:** He/Him  
 **Intern Mobile Developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
 **Front-End Developer** since **September 2024**
 
-## 🌍 About me
-A MorocCan Intern Mobile developer, currently interning at **CMC Tangier** with a team of 19 interns under 2 senior developers.
-- 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)** with honors
-- 🌱 Currently mastering **JavaScript, HTML, CSS, PHP, and MySQL**
-- 📫 Reach me: [chattabdrrafie@gmail.com](mailto:chattabdrrafie@gmail.com)
-- ⚡ Fun fact: Challenge me to chess! (Warning: I play to win)
+## 🌍 About
+A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with a team of 17 interns.
+- 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)**
+- 🌱 Currently mastering **Kotlin, Java, JavaScript, HTML, CSS, PHP, and MySQL**
 
 ---
 
@@ -45,8 +42,7 @@ A MorocCan Intern Mobile developer, currently interning at **CMC Tangier** with 
 
 ## 📊 GitHub Analytics
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=merko&hide=issues&include_all_commits=true) |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) |
 
 ---
 
