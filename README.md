@@ -42,7 +42,9 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 ## 📊 GitHub Analytics
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical) |
+<div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
+</div>
 
 ---
 
