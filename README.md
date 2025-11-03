@@ -12,29 +12,50 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 <div align="center">
 
-## 🌍 Connect With Me
+## 🌐 Social Media
 
-<a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
-</a>
-<a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="50" style="margin: 0 10px;" title="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/@rfchatt" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50" height="50" style="margin: 0 10px;" title="YouTube" />
-</a>
-<a href="https://x.com/rfchatt_" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/x.png" width="50" height="50" style="margin: 0 10px;" title="X (Twitter)" />
-</a>
-<a href="https://web.facebook.com/rfchatt" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png" width="50" height="50" style="margin: 0 10px;" title="Facebook" />
-</a>
-<a href="https://rfchatt.github.io/rfchatt_/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="50" height="50" style="margin: 0 10px;" title="Website" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/rfchatt" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="45" height="45" /><br/>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" height="45" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@rfchatt" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="45" height="45" /><br/>
+        <sub><b>YouTube</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/rfchatt_" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/x.png" width="45" height="45" /><br/>
+        <sub><b>X</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web.facebook.com/rfchatt" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/facebook.png" width="45" height="45" /><br/>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://rfchatt.github.io/rfchatt_/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="45" height="45" /><br/>
+        <sub><b>Website</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 ## 🛠️ Tech Stack
 
