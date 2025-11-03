@@ -15,7 +15,7 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 ## 🌍 Connect With Me
 
 <a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="50" style="margin: 0 10px;" title="LinkedIn" />
