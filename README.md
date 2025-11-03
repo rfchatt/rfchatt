@@ -47,17 +47,10 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
 
 Test
-# Hi, I'm rfchatt! 👋
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfchatt&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfchatt&layout=compact&theme=radical" />
+</p>
 
 
 ---
