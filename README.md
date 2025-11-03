@@ -18,7 +18,7 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
   <img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" width="46" height="46" style="margin: 0 12px;" title="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="46" height="46" style="margin: 0 12px;" title="LinkedIn" />
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="48" height="48" style="margin: 0 12px;" title="LinkedIn" />
 </a>
 
 </div>
