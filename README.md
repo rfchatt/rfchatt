@@ -12,25 +12,25 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 <div align="center">
 
-## 🌐 Social Media
+## 🌍 Connect With Me
 
 <a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45" height="45" style="background: linear-gradient(45deg, #E4405F, #F77737); padding: 8px; border-radius: 10px; margin: 0 8px;" title="Instagram" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/instagram.svg" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="45" height="45" style="background: #0077B5; padding: 8px; border-radius: 10px; margin: 0 8px;" title="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/linkedin.svg" width="50" height="50" style="margin: 0 10px;" title="LinkedIn" />
 </a>
 <a href="https://www.youtube.com/@rfchatt" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="45" height="45" style="background: #FF0000; padding: 8px; border-radius: 10px; margin: 0 8px;" title="YouTube" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/youtube.svg" width="50" height="50" style="margin: 0 10px;" title="YouTube" />
 </a>
 <a href="https://x.com/rfchatt_" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" style="background: #000000; padding: 8px; border-radius: 10px; margin: 0 8px;" title="X (Twitter)" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/x.svg" width="50" height="50" style="margin: 0 10px;" title="X (Twitter)" />
 </a>
 <a href="https://web.facebook.com/rfchatt" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="45" height="45" style="background: #1877F2; padding: 8px; border-radius: 10px; margin: 0 8px;" title="Facebook" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/facebook.svg" width="50" height="50" style="margin: 0 10px;" title="Facebook" />
 </a>
 <a href="https://rfchatt.github.io/rfchatt_/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="45" height="45" style="background: #4285F4; padding: 8px; border-radius: 10px; margin: 0 8px;" title="Website" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/globe.svg" width="50" height="50" style="margin: 0 10px;" title="Website" />
 </a>
 
 </div>
