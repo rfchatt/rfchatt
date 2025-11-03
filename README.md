@@ -10,16 +10,28 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 ---
 
-## 🌍 Social Media
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rfchatt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rfchatt/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rfchatt)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rfchatt_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/rfchatt)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rfchatt.github.io/rfchatt_/)
+## 🌍 Connect With Me
+
+<a href="https://instagram.com/rfchatt" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 0 10px;" title="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@rfchatt" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="50" height="50" style="margin: 0 10px;" title="YouTube" />
+</a>
+<a href="https://x.com/rfchatt_" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50" height="50" style="margin: 0 10px;" title="X (Twitter)" />
+</a>
+<a href="https://web.facebook.com/rfchatt" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50" style="margin: 0 10px;" title="Facebook" />
+</a>
+<a href="https://rfchatt.github.io/rfchatt_/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50" style="margin: 0 10px;" title="Website" />
+</a>
 
 </div>
 
