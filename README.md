@@ -15,19 +15,17 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 ## 🌍 Let's Connect
 
 <a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" width="46" height="46" style="margin: 0 12px;" title="Instagram" />
+  <img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" width="40" height="40" style="margin: 0 12px;" title="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="48" height="48" style="margin: 0 12px;" title="LinkedIn" />
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" height="40" style="margin: 0 12px;" title="LinkedIn" />
 </a>
 
 </div>
 
-## 🛠️ Tech Stack
-
-### 📋 Languages
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" title="JavaScript" />
+## 📋 Languages
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25" title="Kotlin" />
@@ -35,14 +33,14 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25" title="PHP" />
 </div>
 
-### 🗄️ Databases & Frameworks
-<div align="center">
+## 🗄️ Databases & Frameworks
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" height="25" title="Bootstrap" />
 </div>
 
-### 🔧 Tools & Platforms
-<div align="center">
+## 🔧 Tools & Platforms
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="25" height="25" title="Android Studio" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25" height="25" title="intellijIDEA" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" height="25" title="VsCode" />
