@@ -12,25 +12,25 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 <div align="center">
 
-## 🌍 Connect With Me
+## 🌍 Let's Connect
 
 <a href="https://instagram.com/rfchatt" target="_blank">
-  <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="50" style="margin: 0 10px;" title="Instagram" />
+  <img src="https://www.svgrepo.com/show/452186/instagram-1.svg" width="46" height="46" style="margin: 0 10px;" title="Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/rfchatt/" target="_blank">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" height="50" style="margin: 0 10px;" title="LinkedIn" />
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="46" height="46" style="margin: 0 10px;" title="LinkedIn" />
 </a>
 <a href="https://www.youtube.com/@rfchatt" target="_blank">
-  <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50" height="50" style="margin: 0 10px;" title="YouTube" />
+  <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="46" height="46" style="margin: 0 10px;" title="YouTube" />
 </a>
 <a href="https://x.com/rfchatt_" target="_blank">
-  <img src="https://www.svgrepo.com/show/448725/x.svg" width="50" height="50" style="margin: 0 10px;" title="X" />
+  <img src="https://www.svgrepo.com/show/448776/x-twitter.svg" width="46" height="46" style="margin: 0 10px;" title="X" />
 </a>
 <a href="https://web.facebook.com/rfchatt" target="_blank">
-  <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" width="50" height="50" style="margin: 0 10px;" title="Facebook" />
+  <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" width="46" height="46" style="margin: 0 10px;" title="Facebook" />
 </a>
 <a href="https://rfchatt.github.io/rfchatt_/" target="_blank">
-  <img src="https://www.svgrepo.com/show/354000/link-icon.svg" width="50" height="50" style="margin: 0 10px;" title="Website" />
+  <img src="https://www.svgrepo.com/show/327408/logo-link.svg" width="46" height="46" style="margin: 0 10px;" title="Website" />
 </a>
 
 </div>
