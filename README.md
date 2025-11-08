@@ -1,6 +1,6 @@
 # Abderrafie Chate - rfchatt
 
-**Intern Mobile Developer** at [@cmc-ofppt](https://cmc.ac.ma/) since **July 2025**
+**Intern Mobile Developer** at [@cmc-ofppt](https://cmc.ac.ma/) since **July 2025** <br>
 **Front-End Developer** at [@cmc-ofppt](https://cmc.ac.ma/) since **September 2024**
 
 ## 🌍 About
