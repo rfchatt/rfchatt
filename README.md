@@ -1,7 +1,7 @@
 # Abderrafie Chate - rfchatt
 
-**Intern Mobile Developer** at [@cmc-ofppt](https://cmc.ac.ma/)  
-**Front-End Developer** since **September 2024**
+**Intern Mobile Developer** at [@cmc-ofppt](https://cmc.ac.ma/) since **July 2025**
+**Front-End Developer** at [@cmc-ofppt](https://cmc.ac.ma/) since **September 2024**
 
 ## 🌍 About
 A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with a team of 17 interns.
