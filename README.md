@@ -6,7 +6,7 @@
 ## 🌍 About
 A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with a team of 17 interns.
 - 🎓 Certified with a **Baccalaureate in Physics and Chemistry (2023)**
-- 🧠 Currently learning **Kotlin** and **Java**, with **IntelliJ IDEA** & **Android Studio**
+- 🧠 Currently learning **Kotlin**, **XML** & **Java**, with **IntelliJ IDEA** & **Android Studio**
 
 ---
 
