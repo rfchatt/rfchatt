@@ -44,9 +44,13 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 ## 🗄️ Databases & Frameworks
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" title="Bootstrap" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" title="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35" title="Firebase" />
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="35" height="35" title="Google OAuth" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35" title="SQLite" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="35" height="35" title="API" />
+</div>>
 
 
 ## 📊 Analytics
@@ -67,5 +71,8 @@ A MorocCan junior Mobile developer, currently interning at **CMC Tangier** with 
 
 ## 🎮 Downtime Activities
 
-[![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik0wIDBoMjQwdjgwSDB6Ii8+PHRleHQgeD0iMTIwIiB5PSI0NSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0ZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+R1RBIFY8L3RleHQ+PC9zdmc+)](https://www.rockstargames.com/V/)
-[![eFootball PES 2025](https://img.shields.io/badge/eFootball_PES_2025-D32F2F?style=flat&logo=konami&logoColor=white)](https://www.konami.com/efootball/)
+[![GTA V](https://img.shields.io/badge/GTA_V-000000?style=flat&logo=rockstargames&logoColor=white)](https://www.rockstargames.com/V/)
+
+[![Resident Evil 4](https://img.shields.io/badge/Resident_Evil_4-8B0000?style=flat&logo=capcom&logoColor=white)](https://www.residentevil.com/re4/)
+
+[![Champions League](https://img.shields.io/badge/Champions_League-003A8F?style=flat&logo=uefa&logoColor=white)](https://www.uefa.com/uefachampionsleague/)
